@@ -1,7 +1,8 @@
 :
 
 📘 Student Score Prediction
-📌 Task 1: Predicting Student Exam Scores
+
+📌 Predicting Student Exam Scores
 
 This project focuses on predicting students' exam scores based on several factors such as study hours, attendance, parental involvement, access to resources, and more.
 
